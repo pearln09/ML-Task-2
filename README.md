@@ -22,12 +22,19 @@ Heuristic Formula
 We can define the tidal volume using a simple linear model combining these factors. Here's a sample formula:
 
 Lung Tidal Volume=Base+Age Factor+Gender Factor+Height Factor+Symptom Factor
+
 Where:
+
 Base: 500 mL (baseline tidal volume)
+
 Age Factor:(Age−30)×5/50 (arbitrary adjustment)
+
 Gender Factor: 50×Gender (0 for Female, 1 for Male)
+
 Height Factor: 2×(Height−170) (linear adjustment)
+
 Symptom Factor: −50×(Symptom1+Symptom2+Symptom3)
+
 
 Using this formula, I created a synthetic dataset which is medically accurate. This synthetic dataset should provide a plausible basis for creating a predictive model. Note that while the data is realistic, it is not based on actual patient data and should not be used for clinical decision-making. 
 
