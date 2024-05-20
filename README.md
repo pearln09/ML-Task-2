@@ -56,13 +56,19 @@ To increase the accuracy, I applied 3 different models to my datset and then com
 
 I have solved the PS in Jupyter Notebook because I am familiar with the working.
 
-<img width="959" alt="Model in action 7" src="https://github.com/pearln09/ML-Task-2/assets/157534726/8e2f6f0a-0828-4438-9c5d-bcff312e37e1">
-<img width="956" alt="Model in action 6" src="https://github.com/pearln09/ML-Task-2/assets/157534726/6d32f8cd-2050-407a-b932-4b0c322fce40">
-<img width="959" alt="Model in action 5" src="https://github.com/pearln09/ML-Task-2/assets/157534726/e77b4e2c-0c8f-402d-b820-cab7ce491bb3">
-<img width="958" alt="Model in action 4" src="https://github.com/pearln09/ML-Task-2/assets/157534726/df506b2b-28b1-4aa4-a956-ed55590edb40">
-<img width="955" alt="Model in action 3" src="https://github.com/pearln09/ML-Task-2/assets/157534726/d9f7e93c-b38c-4ca6-a83d-f8d229bd925f">
-<img width="958" alt="Model in action 2" src="https://github.com/pearln09/ML-Task-2/assets/157534726/c02e2998-16d9-4d4d-ba6c-65d578ec514b">
 <img width="944" alt="Model in action 1" src="https://github.com/pearln09/ML-Task-2/assets/157534726/d795ec66-c34b-45af-b21b-042617ab2659">
+<img width="958" alt="Model in action 2" src="https://github.com/pearln09/ML-Task-2/assets/157534726/c02e2998-16d9-4d4d-ba6c-65d578ec514b">
+<img width="955" alt="Model in action 3" src="https://github.com/pearln09/ML-Task-2/assets/157534726/d9f7e93c-b38c-4ca6-a83d-f8d229bd925f">
+<img width="958" alt="Model in action 4" src="https://github.com/pearln09/ML-Task-2/assets/157534726/df506b2b-28b1-4aa4-a956-ed55590edb40">
+<img width="959" alt="Model in action 5" src="https://github.com/pearln09/ML-Task-2/assets/157534726/e77b4e2c-0c8f-402d-b820-cab7ce491bb3">
+<img width="956" alt="Model in action 6" src="https://github.com/pearln09/ML-Task-2/assets/157534726/6d32f8cd-2050-407a-b932-4b0c322fce40">
+<img width="959" alt="Model in action 7" src="https://github.com/pearln09/ML-Task-2/assets/157534726/8e2f6f0a-0828-4438-9c5d-bcff312e37e1">
+
+
+
+
+
+
 
 
 
