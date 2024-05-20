@@ -4,14 +4,22 @@ fun part is that you need to find a dataset for this on your own.
 Hint: You might find it difficult to find datasets or find one which is extremely small. There are several techniques that can be employed to combat such situations. Think of
 some of them.
 Deliverables:
+
 1. A README file with the following details
+   
 a. The approach you took to find the dataset and any steps you took to ensure that the dataset is sufficient
+
 b. Explain your approach to the problem, any roadblocks you faced, and measures you took to increase accuracy. Be as elaborate in this section as
 possible.
+
 c. Instructions on how to run your code. Please note that these instructions should be complete and actually run your code, with no modifications required from our side.
+
 d. Screenshots of your model in action.
+
 e. (Optional)Flowcharts or diagrams explaining the working of the model.
+
 2. A file containing your actual code (this could be either a standalone Python file, a group of Python files, or a Jupyter Notebook)
+   
 3. The dataset that you used
 
 
@@ -47,4 +55,14 @@ While solving the problem, the roadblock I faced was in finding the datset onlin
 To increase the accuracy, I applied 3 different models to my datset and then compared the predictions to choose the one which is most accurate. 
 
 I have solved the PS in Jupyter Notebook because I am familiar with the working.
+
+<img width="959" alt="Model in action 7" src="https://github.com/pearln09/ML-Task-2/assets/157534726/8e2f6f0a-0828-4438-9c5d-bcff312e37e1">
+<img width="956" alt="Model in action 6" src="https://github.com/pearln09/ML-Task-2/assets/157534726/6d32f8cd-2050-407a-b932-4b0c322fce40">
+<img width="959" alt="Model in action 5" src="https://github.com/pearln09/ML-Task-2/assets/157534726/e77b4e2c-0c8f-402d-b820-cab7ce491bb3">
+<img width="958" alt="Model in action 4" src="https://github.com/pearln09/ML-Task-2/assets/157534726/df506b2b-28b1-4aa4-a956-ed55590edb40">
+<img width="955" alt="Model in action 3" src="https://github.com/pearln09/ML-Task-2/assets/157534726/d9f7e93c-b38c-4ca6-a83d-f8d229bd925f">
+<img width="958" alt="Model in action 2" src="https://github.com/pearln09/ML-Task-2/assets/157534726/c02e2998-16d9-4d4d-ba6c-65d578ec514b">
+<img width="944" alt="Model in action 1" src="https://github.com/pearln09/ML-Task-2/assets/157534726/d795ec66-c34b-45af-b21b-042617ab2659">
+
+
 
